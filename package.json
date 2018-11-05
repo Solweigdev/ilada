@@ -14,13 +14,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^31.0.2",
+    "expo": "^31.0.4",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-datepicker": "^1.7.2",
+    "react-native-chooser": "^1.7.0",
     "react-native-elements": "^0.19.1",
-    "react-native-modal-datetime-picker": "^6.0.0",
-    "react-navigation": "^2.18.2"
+    "react-navigation": "^2.18.2",
+    "react-select-me": "^1.1.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
